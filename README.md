@@ -1,52 +1,64 @@
-# CodSoft Virtual Internship - Python Development 🐍
+# 💼 CodSoft Internship Projects – Vaibhav Singh
 
-Welcome to my CodSoft internship project repository! This repository contains the three tasks I completed during my 4-week virtual internship in Python Development at **CodSoft**. I had a great time working on these projects and enhancing my programming skills.
+This repository contains all the tasks I completed during my 4-week internship at **CodSoft**, focusing on AI, game development, and recommendation systems. The internship provided a great opportunity to apply theoretical knowledge to real-world projects.
 
----
+## 📁 Project Structure
 
-## 📝 Internship Tasks
-
-Here's a brief overview of the three tasks I completed, each in its own dedicated folder.
-
-### 🤖 Task 1: Rule-Based Chatbot
-
-A simple, command-line chatbot that interacts with users based on a predefined set of rules and responses. It's a great introduction to the basics of conversational AI.
-
-* **Key Features:** User input processing, pattern matching, and rule-based responses.
-* **Folder:** `[➡️ View Project](./chatbot-folder-name/)`
+- [`Task 1 - Chatbot with Rule-Based System`](./Task1_Chatbot/)
+- [`Task 2 - Tic Tac Toe Game`](./Task2_TicTacToe/)
+- [`Task 3 - Movie Recommendation System`](./Task3_RecommendationSystem/)
 
 ---
 
-### 🎲 Task 2: Tic-Tac-Toe Game
+## 🧠 Task 1: Chatbot with Rule-Based System
 
-A classic Tic-Tac-Toe game built with Python. The application allows two players to play against each other in the console. It includes input validation and checks for win, lose, or draw conditions.
+A text-based chatbot built using **Tkinter**, **NLTK**, and **Regex**, capable of understanding greetings, date/time queries, and basic web actions. The interface includes:
+- Dark mode toggle
+- Modern UI layout
+- Chat history storage
+- Timestamped messages
+- User and bot avatars
 
-* **Key Features:** Two-player gameplay, dynamic board display, and game state logic.
-* **Folder:** `[➡️ View Project](./tic-tac-toe-folder-name/)`
+📌 *Tech Stack:* Python, Tkinter, NLTK, Regex
 
----
-
-### 🎬 Task 3: Recommendation System
-
-A content-based recommendation system that suggests items (like movies or books) to users. It works by analyzing the attributes of items that a user has previously liked and recommending similar items.
-
-* **Key Features:** Data processing, feature extraction, and similarity calculation (e.g., using cosine similarity).
-* **Folder:** `[➡️ View Project](./recommendation-system-folder-name/)`
+➡️ [View Folder](./Task1_Chatbot/)
 
 ---
 
-## 🏢 About CodSoft
+## 🎮 Task 2: Tic Tac Toe Game
 
-This internship was a great opportunity provided by **CodSoft** to work on real-world projects and gain hands-on experience. Thank you, CodSoft, for this valuable program!
+A classic **Tic Tac Toe** game built with Python and Tkinter that lets two players play alternately on a 3x3 grid. Includes:
+- Win/draw detection
+- Reset game functionality
+- Intuitive GUI
 
-* **Website:** [codsoft.in](https://www.codsoft.in/)
-* **LinkedIn:** [CodSoft on LinkedIn](https://www.linkedin.com/company/codsoft/)
+📌 *Tech Stack:* Python, Tkinter
+
+➡️ [View Folder](./Task2_TicTacToe/)
 
 ---
 
-## 🧑‍💻 About Me
+## 🎬 Task 3: Movie Recommendation System
 
-I am a passionate developer eager to learn and grow in the field of technology.
+A **content-based movie recommendation system** using cosine similarity and TF-IDF Vectorizer on movie plots. Users can input a movie title to get relevant recommendations.
 
-* **LinkedIn:** `[Your LinkedIn Profile URL]`
-* **GitHub:** `[Your GitHub Profile URL]`
+📌 *Tech Stack:* Python, Pandas, Scikit-learn, Streamlit (optional for UI)
+
+➡️ [View Folder](./Task3_RecommendationSystem/)
+
+---
+
+## 📜 Certificate
+
+✅ Successfully completed the CodSoft Internship under the AI/ML domain.
+
+---
+
+## 🔗 Connect With Me
+
+- **LinkedIn**: [Vaibhav Singh](https://www.linkedin.com/in/your-profile)
+- **GitHub**: [Vaibhav-12521](https://github.com/Vaibhav-12521)
+
+---
+
+> **Note**: Each project contains its own `README.md` with usage instructions, dependencies, and screenshots (where applicable).
