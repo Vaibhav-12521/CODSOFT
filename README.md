@@ -5,8 +5,8 @@ This repository contains all the tasks I completed during my 4-week internship a
 ## 📁 Project Structure
 
 - [`Task 1 - Chatbot with Rule-Based System`](./TASK%201%20CHATBOT/)
-- [`Task 2 - Tic Tac Toe Game`](./TASK 2 TIC TAC TOE/)
-- [`Task 3 - Movie Recommendation System`](./TASK 3 RECOMMENDATION SYSTEM/)
+- [`Task 2 - Tic Tac Toe Game`](./TASK%202%20%20%20TIC%20TAC%20TOE/)
+- [`Task 3 - Movie Recommendation System`](./TASK%203%20RECOMMENDATION%20SYSTEM/)
 
 ---
 
