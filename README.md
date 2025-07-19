@@ -16,7 +16,8 @@ A simple, command-line chatbot that interacts with users based on a predefined s
 
 📌 **Key Features:** User input processing, pattern matching, and rule-based responses.
 
-📌 **Tech Stack:** Python, Tkinter, NLTK, Regex
+📌 **Tech Stack:** Python, Tkinter, NLTK, Regex, BeautifulSoup, asyncio,AppOpenor.
+
 ➡️ [View Folder](./TASK%201%20CHATBOT/)
 
 ---
@@ -27,7 +28,7 @@ A classic Tic-Tac-Toe game built with Python. The application allows player to p
 
 📌 **Key Features:** dynamic board display and game state logic.
 
-📌 **Tech Stack:** Python, Tkinter
+📌 **Tech Stack:** Python, Tkinter, Random.
 
 ➡️ [View Folder](./TASK%202%20%20%20TIC%20TAC%20TOE/)
 
@@ -39,15 +40,15 @@ A content-based recommendation system that suggests items (like movies or books)
 
 📌 **Key Features:** Data processing, feature extraction, and similarity calculation (e.g., using cosine similarity).
 
-📌 **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit (optional for UI)
+📌 **Tech Stack:** Python, Pandas, Scikit-learn, Numpy.
 
 ➡️ [View Folder](./TASK%203%20RECOMMENDATION%20SYSTEM/)
 
 ---
 
-## 📜 Certificate
+## 📜 Projects
 
-✅ Successfully completed the CodSoft Internship under the AI/ML domain.
+✅ Successfully completed the CodSoft Internship Projects under the AI/ML domain.
 
 ---
 
@@ -58,4 +59,4 @@ A content-based recommendation system that suggests items (like movies or books)
 
 ---
 
-> **Note**: Each project contains its own `README.md` with usage instructions, dependencies, and screenshots (where applicable).
+> **Note**: Each project contains its own `README.md` with usage instructions.
