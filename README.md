@@ -2,6 +2,14 @@
 
 This repository contains all the tasks I completed during my 4-week internship at **CodSoft**, focusing on AI, game development, and recommendation systems. The internship provided a great opportunity to apply theoretical knowledge to real-world projects.
 
+## ✅ Internship Overview
+
+- 🏢 **Organization**: CodSoft  
+- 📅 **Duration**: 4 Weeks (June 25 – July 25, 2025)  
+- 📂 **Total Tasks Completed**: 3  
+- 📍 **Domain**: Artificial Intelligence  
+
+
 ## 📁 Project Structure
 
 - [`Task 1 - Chatbot with Rule-Based System`](./TASK%201%20CHATBOT/)
