@@ -24,63 +24,6 @@ Welcome to TyZe, a command-line based chatbot assistant built in Python. TyZe is
 
 * **Interactive Chat:** Responds to simple conversational cues like "hello", "what is your name", and "thank you".
 
-## 🛠️ Installation & Setup
-
-Follow these steps to set up and run TyZe on your local machine.
-
-### Prerequisites
-
-* [Python 3.7+](https://www.python.org/downloads/)
-
-* An active internet connection (for downloading dependencies and for web-based features).
-
-### Step-by-Step Guide
-
-1.  **Clone the Repository**
-    ```sh
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
-    ```
-
-2.  **Create a Virtual Environment (Recommended)**
-    ```sh
-    # For Windows
-    python -m venv venv
-    .\venv\Scripts\activate
-
-    # For macOS/Linux
-    python3 -m venv venv
-    source venv/bin/activate
-    ```
-
-3.  **Install Dependencies**
-    Create a file named `requirements.txt` in the project directory and paste the following lines into it:
-    ```txt
-    nltk
-    AppOpener
-    pywhatkit
-    beautifulsoup4
-    requests
-    keyboard
-    ```
-    Now, run the following command in your terminal to install all the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-    The script will automatically download the necessary `punkt` tokenizer from NLTK on its first run.
-
-## 🚀 How to Run
-
-1.  Open your terminal or command prompt.
-2.  Navigate to the project directory.
-3.  Run the script using the following command:
-    ```sh
-    python your_script_name.py
-    ```
-    *(Replace `your_script_name.py` with the actual name of your Python file.)*
-
-4.  The assistant will first ask for your name to personalize the experience. After that, you can start giving it commands!
-
 ## 📝 Usage & Commands
 
 Here is a list of commands you can use with TyZe:
