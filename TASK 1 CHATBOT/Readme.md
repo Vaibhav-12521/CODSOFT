@@ -1,5 +1,5 @@
 
-# TyZe - Your Personal Desktop Assistant 🤖
+# CHATBOT WITH RULE-BASED 🤖
 
 Welcome to TyZe, a command-line based chatbot assistant built in Python. TyZe is designed to help you with everyday tasks like opening websites, searching the web, controlling your system volume, and launching applications, all from the comfort of your terminal.
 
