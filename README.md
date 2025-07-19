@@ -17,7 +17,7 @@ A simple, command-line chatbot that interacts with users based on a predefined s
 📌 **Key Features:** User input processing, pattern matching, and rule-based responses.
 
 📌 **Tech Stack:** Python, Tkinter, NLTK, Regex
-➡️ [View Folder](./Task1_Chatbot/)
+➡️ [View Folder](./TASK%201%20CHATBOT/)
 
 ---
 
@@ -29,7 +29,7 @@ A classic Tic-Tac-Toe game built with Python. The application allows player to p
 
 📌 **Tech Stack:** Python, Tkinter
 
-➡️ [View Folder](./Task2_TicTacToe/)
+➡️ [View Folder](./TASK%202%20%20%20TIC%20TAC%20TOE/)
 
 ---
 
@@ -41,7 +41,7 @@ A content-based recommendation system that suggests items (like movies or books)
 
 📌 **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit (optional for UI)
 
-➡️ [View Folder](./Task3_RecommendationSystem/)
+➡️ [View Folder](./TASK%203%20RECOMMENDATION%20SYSTEM/)
 
 ---
 
